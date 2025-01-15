@@ -128,7 +128,7 @@ header {
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    color: var(--color-white);
+    color: var(--color-black);
     background-color: var(--color-accent);
     border-radius: 0;
 }
