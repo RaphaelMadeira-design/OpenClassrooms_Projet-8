@@ -135,6 +135,7 @@ header {
 
 .nav-pills .nav-link {
     color: var(--color-black);
+    cursor: pointer;
 }
 
 .item-column {
